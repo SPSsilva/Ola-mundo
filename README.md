@@ -1,5 +1,7 @@
 # Olá, mundo!
  
- Rumo as aventuras do códigos perdidos.
+ Rumo as aventuras dos códigos perdidos.
 
+ 
+ É apenas o começo!!
  
