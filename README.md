@@ -1,2 +1,5 @@
-# Olá mundo0
- Rumo a glória
+# Olá, mundo!
+ 
+ Rumo as aventuras do códigos perdidos.
+
+ 
